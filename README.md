@@ -1,2 +1,2 @@
-# Decklink_Headers
+# decklink-headers
 decklink headers API
